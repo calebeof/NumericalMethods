@@ -1,6 +1,10 @@
+'''
+Author: Calebe Oliveira
+May, 2019.
+'''
+
 import numpy as np 
 from scipy.linalg import solve_triangular
-
 
 np.set_printoptions(formatter={'float': lambda x: "{:.4f}".format(x)})
 
