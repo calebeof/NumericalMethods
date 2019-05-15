@@ -1,2 +1,2 @@
 # NumericalMethods
-Numerical methods used to solve numerical problems, implemented using python and numpy. 
+Numerical methods designed to solve numerical problems, implemented using python and numpy. 
