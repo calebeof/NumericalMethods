@@ -1,3 +1,8 @@
+'''
+Author: Calebe Oliveira
+May, 2019.
+'''
+
 import numpy as np
 
 #Setting the float numbers to 4 point precision
