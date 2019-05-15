@@ -1,3 +1,8 @@
+'''
+Author: Calebe Oliveira
+May, 2019.
+'''
+
 import numpy as np
 
 #Simple function that we will use as an example
